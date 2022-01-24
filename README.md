@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FelipeRandom, I do not tell the future, but I do want to create my one.
+- 👋 Hi, I’m @felipe-main, I am a man in main :).
 - 👀 I’m interested in everything yours truly can think, but I am in love with blockchain.
 - 🌱 I’m currently learning Python, JavaScript and Solidity.
 
